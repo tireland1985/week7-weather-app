@@ -55,6 +55,10 @@ p {
     margin: 0 auto;
 }
 .temperature-value {
+    width:300px;
+    height:60px;
+}
+.temperature-value p {
     padding: 0;
     margin: 0;
     color: #293251;
@@ -69,15 +73,18 @@ p {
     color: #293251;
     font-size: 0.5em;
 }
-/*.temperature-description {
+.temperature-description {
 
-}*/
+}
 .temperature-description p {
     padding: 22px;
     margin: 0;
     color: #293251;
     text-align: center;
     font-size: 1.2em;
+}
+.location {
+    
 }
 .location p {
     margin: 0;

@@ -13,8 +13,8 @@ weather.temperature = {
 }
 // const variable for temp conversion
 const KELVIN = 273;
-//API KEY FROM OPENWEATHERMAP.org - change key later
-const key = "82005d27a116c2880c8f0fcb866998a0";
+//personal api key from openweathermap.org - if you're copying this repo, please get your own key 
+const key = "e8bc17b2db932bfbd230b3dc3e990eaf";
 
 //geolocation checking
 if('geolocation' in navigator){

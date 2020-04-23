@@ -68,6 +68,7 @@ p {
 }
 .temperature-value p:hover {
     font-size: 6em;
+    color: #ff0000;
 }
 .temperature-value span {
     color: #293251;
@@ -86,6 +87,7 @@ p {
 .temperature-description p:hover {
     text-decoration: underline overline;
     font-size: 2em;
+    color: #ff0000;
 }
 .location {
     
@@ -99,7 +101,9 @@ p {
 }
 .location p:hover {
     font-size: 1.5em;
+    color: #ff0000;
 }
 .center {
     text-align: center;
+    color: #ffffff;
 }
